@@ -60,8 +60,8 @@ https://nikitaavdeev07-arch.github.io/Marketplace/
 
 DS AUTO/
 ├── index.html (главная страница)
-├── company.html (страница "О нас")
-├── bmw.html (страница с BMW)
+├── company.html 
+├── bmw.html 
 ├── mercedes-benz.html
 ├── audi.html
 ├── lexus.html
